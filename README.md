@@ -1,1 +1,1 @@
-### [freeCodeCamp](https://freecodecamp.com)'s [Privacy Policy](https://www.freecodecamp.com/privacy)
+> ### This page is now archived and managed in Ghost
